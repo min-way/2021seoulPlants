@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 :root {
-  --font-color1:#FABE00;
+  --font-color1: #FABE00;
   --font-color2: #787878;
 }
 .bg-gray {background: rgba(0,0,0,0.5);}
